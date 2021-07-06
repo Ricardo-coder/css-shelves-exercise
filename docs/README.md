@@ -1,4 +1,13 @@
 # Estudo CSS
+
+## Inicialização
+- abrir o código no VS Code
+- abrir o terminal do VS Code
+- fazer o login no account de estudos
+- criar uma 'workspace' para estudos [vtex use seuNomeSobrenome]
+- fazer o link do app na sua workspace [vtex link -c]
+- acessar a WS pelo chrome [seuNomeSobrenome.{{account}}.myvtex.com]
+ ## To Do
 [ ] Criar o CSS da estrutura das Vitrines
 
 [ ] Criar o CSS do Product-summary (items das vitrines)
